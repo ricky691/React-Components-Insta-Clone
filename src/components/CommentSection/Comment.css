@@ -8,10 +8,10 @@
 }
 .comment-form  {
   margin: 10px 0;
-  width: 95%;
+  width: 100%;
 }
 .comment-form input {
-  width: 100%;
+  width: 90%;
   font-size: 14px;
   padding: 10px;
   border: none;
